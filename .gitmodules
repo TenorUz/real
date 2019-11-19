@@ -1,0 +1,3 @@
+[submodule "TenorManBot"]
+
+	path = slackbot	url = https://github.com/tenor/TenorManBot
