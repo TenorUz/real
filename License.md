@@ -2,7 +2,7 @@ The MIT License (MIT)
 
 =====================
 
-Copyright © 2017 Alex Peattie
+Copyright © 2017 TenorUz
 
 Permission is hereby granted, free of charge, to any person
 
