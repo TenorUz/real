@@ -1,0 +1,44 @@
+{
+
+  "name": "Call of Duty Mobile",
+
+  "version": "1.0.0",
+
+  "description": "YouTube C.O.D subscriber microservice",
+
+  "main": "app.js",
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "start": "node app.js"
+
+  },
+
+  "author": "Tenor",
+
+  "license": "MIT",
+
+  "dependencies": {
+
+    "aws-serverless-express": "^2.1.3",
+
+    "bluebird": "^3.4.7",
+
+    "express": "^4.14.1",
+
+    "googleapis": "^16.1.0",
+
+    "request": "^2.79.0"
+
+  },
+
+  "devDependencies": {
+
+    "claudia": "^2.7.0"
+
+  }
+
+}
+
